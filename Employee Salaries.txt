@@ -1,4 +1,4 @@
-NEW LINE FOR THE SALARY
+NEW LINE FOR THE SALARY (Added Bracket)
 Mbappe	 $106,280 
 Hojlund	 $135,049 
 Diegos	 $217,238 
